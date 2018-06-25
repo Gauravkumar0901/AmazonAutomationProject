@@ -1,0 +1,179 @@
+<html>
+<head>
+<title>TestNG:  Test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>20/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Sun Jun 24 21:59:49 IST 2018</td>
+</tr>
+<tr><td>Total time:</td><td>2358 seconds (2358027 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='Script.Address.testcase1()'><b>testcase1</b><br>Test class: Script.Address</td>
+<td></td>
+<td>61</td>
+<td>Script.Address@3098cf3b</td></tr>
+<tr>
+<td title='Script.Quantity.testcase10()'><b>testcase10</b><br>Test class: Script.Quantity</td>
+<td></td>
+<td>95</td>
+<td>Script.Quantity@175b9425</td></tr>
+<tr>
+<td title='Script.Rating.testcase11()'><b>testcase11</b><br>Test class: Script.Rating</td>
+<td></td>
+<td>158</td>
+<td>Script.Rating@6a03bcb1</td></tr>
+<tr>
+<td title='Script.RemoveFromcart.testcase12()'><b>testcase12</b><br>Test class: Script.RemoveFromcart</td>
+<td></td>
+<td>112</td>
+<td>Script.RemoveFromcart@57250572</td></tr>
+<tr>
+<td title='Script.RemovefromWishlist.testcase13()'><b>testcase13</b><br>Test class: Script.RemovefromWishlist</td>
+<td></td>
+<td>145</td>
+<td>Script.RemovefromWishlist@21b2e768</td></tr>
+<tr>
+<td title='Script.Searchforblankitem.testcase14()'><b>testcase14</b><br>Test class: Script.Searchforblankitem</td>
+<td></td>
+<td>31</td>
+<td>Script.Searchforblankitem@548e6d58</td></tr>
+<tr>
+<td title='Script.SearchforItem.testcase15()'><b>testcase15</b><br>Test class: Script.SearchforItem</td>
+<td></td>
+<td>55</td>
+<td>Script.SearchforItem@610f7aa</td></tr>
+<tr>
+<td title='Script.Selectaddress.testcase16()'><b>testcase16</b><br>Test class: Script.Selectaddress</td>
+<td></td>
+<td>86</td>
+<td>Script.Selectaddress@6236eb5f</td></tr>
+<tr>
+<td title='Script.shareItemwithvalidemailid.testcase17()'><b>testcase17</b><br>Test class: Script.shareItemwithvalidemailid</td>
+<td></td>
+<td>57</td>
+<td>Script.shareItemwithvalidemailid@623a8092</td></tr>
+<tr>
+<td title='Script.Sharewithinvalidemail.testcase18()'><b>testcase18</b><br>Test class: Script.Sharewithinvalidemail</td>
+<td></td>
+<td>67</td>
+<td>Script.Sharewithinvalidemail@68567e20</td></tr>
+<tr>
+<td title='Script.Statement.testcase19()'><b>testcase19</b><br>Test class: Script.Statement</td>
+<td></td>
+<td>46</td>
+<td>Script.Statement@394a2528</td></tr>
+<tr>
+<td title='Script.Addtocart.testcase2()'><b>testcase2</b><br>Test class: Script.Addtocart</td>
+<td></td>
+<td>115</td>
+<td>Script.Addtocart@2118cddf</td></tr>
+<tr>
+<td title='Script.Customerpage.testcase21()'><b>testcase21</b><br>Test class: Script.Customerpage</td>
+<td></td>
+<td>34</td>
+<td>Script.Customerpage@5609159b</td></tr>
+<tr>
+<td title='Script.Addtowishlist.testcase3()'><b>testcase3</b><br>Test class: Script.Addtowishlist</td>
+<td></td>
+<td>73</td>
+<td>Script.Addtowishlist@6a2b953e</td></tr>
+<tr>
+<td title='Script.Deletefromsavedforlater.testcase4()'><b>testcase4</b><br>Test class: Script.Deletefromsavedforlater</td>
+<td></td>
+<td>128</td>
+<td>Script.Deletefromsavedforlater@2f465398</td></tr>
+<tr>
+<td title='Script.Filter.testcase5()'><b>testcase5</b><br>Test class: Script.Filter</td>
+<td></td>
+<td>33</td>
+<td>Script.Filter@313b2ea6</td></tr>
+<tr>
+<td title='Script.LoginlogoutScript.testcase6()'><b>testcase6</b><br>Test class: Script.LoginlogoutScript</td>
+<td></td>
+<td>20</td>
+<td>Script.LoginlogoutScript@a1cdc6d</td></tr>
+<tr>
+<td title='Script.Movetocartfromsavedforlater.testcase7()'><b>testcase7</b><br>Test class: Script.Movetocartfromsavedforlater</td>
+<td></td>
+<td>82</td>
+<td>Script.Movetocartfromsavedforlater@11fc564b</td></tr>
+<tr>
+<td title='Script.Movetosaveforlater.testcase8()'><b>testcase8</b><br>Test class: Script.Movetosaveforlater</td>
+<td></td>
+<td>95</td>
+<td>Script.Movetosaveforlater@76ed1b7c</td></tr>
+<tr>
+<td title='Script.Negativeaddress.testcase9()'><b>testcase9</b><br>Test class: Script.Negativeaddress</td>
+<td></td>
+<td>34</td>
+<td>Script.Negativeaddress@17a7f733</td></tr>
+</table><p>
+</body>
+</html>

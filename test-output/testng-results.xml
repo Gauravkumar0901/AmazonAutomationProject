@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="20" passed="20" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-06-24T16:29:49Z" name="Suite" finished-at="2018-06-24T17:09:07Z" duration-ms="2358027">
+    <groups>
+    </groups>
+    <test started-at="2018-06-24T16:29:49Z" name="Test" finished-at="2018-06-24T17:09:07Z" duration-ms="2358027">
+      <class name="Script.RemovefromWishlist">
+        <test-method is-config="true" signature="oprnapp()[pri:0, instance:Script.RemovefromWishlist@21b2e768]" started-at="2018-06-24T16:56:45Z" name="oprnapp" finished-at="2018-06-24T16:57:50Z" duration-ms="65018" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- oprnapp -->
+        <test-method signature="testcase13()[pri:0, instance:Script.RemovefromWishlist@21b2e768]" started-at="2018-06-24T16:57:50Z" name="testcase13" finished-at="2018-06-24T17:00:15Z" duration-ms="145091" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase13 -->
+        <test-method is-config="true" signature="closeapp()[pri:0, instance:Script.RemovefromWishlist@21b2e768]" started-at="2018-06-24T17:00:15Z" name="closeapp" finished-at="2018-06-24T17:00:18Z" duration-ms="3222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapp -->
+      </class> <!-- Script.RemovefromWishlist -->
+      <class name="Script.Selectaddress">
+        <test-method is-config="true" signature="oprnapp()[pri:0, instance:Script.Selectaddress@6236eb5f]" started-at="2018-06-24T16:42:14Z" name="oprnapp" finished-at="2018-06-24T16:42:55Z" duration-ms="40586" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- oprnapp -->
+        <test-method signature="testcase16()[pri:0, instance:Script.Selectaddress@6236eb5f]" started-at="2018-06-24T16:42:55Z" name="testcase16" finished-at="2018-06-24T16:44:21Z" duration-ms="86330" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase16 -->
+        <test-method is-config="true" signature="closeapp()[pri:0, instance:Script.Selectaddress@6236eb5f]" started-at="2018-06-24T16:44:21Z" name="closeapp" finished-at="2018-06-24T16:44:26Z" duration-ms="5023" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapp -->
+      </class> <!-- Script.Selectaddress -->
+      <class name="Script.Movetocartfromsavedforlater">
+        <test-method is-config="true" signature="oprnapp()[pri:0, instance:Script.Movetocartfromsavedforlater@11fc564b]" started-at="2018-06-24T16:34:45Z" name="oprnapp" finished-at="2018-06-24T16:35:34Z" duration-ms="49380" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- oprnapp -->
+        <test-method signature="testcase7()[pri:0, instance:Script.Movetocartfromsavedforlater@11fc564b]" started-at="2018-06-24T16:35:34Z" name="testcase7" finished-at="2018-06-24T16:36:57Z" duration-ms="82760" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase7 -->
+        <test-method is-config="true" signature="closeapp()[pri:0, instance:Script.Movetocartfromsavedforlater@11fc564b]" started-at="2018-06-24T16:36:57Z" name="closeapp" finished-at="2018-06-24T16:37:00Z" duration-ms="3519" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapp -->
+      </class> <!-- Script.Movetocartfromsavedforlater -->
+      <class name="Script.Addtocart">
+        <test-method is-config="true" signature="oprnapp()[pri:0, instance:Script.Addtocart@2118cddf]" started-at="2018-06-24T17:03:56Z" name="oprnapp" finished-at="2018-06-24T17:04:20Z" duration-ms="23942" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- oprnapp -->
+        <test-method signature="testcase2()[pri:0, instance:Script.Addtocart@2118cddf]" started-at="2018-06-24T17:04:20Z" name="testcase2" finished-at="2018-06-24T17:06:15Z" duration-ms="115451" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase2 -->
+        <test-method is-config="true" signature="closeapp()[pri:0, instance:Script.Addtocart@2118cddf]" started-at="2018-06-24T17:06:15Z" name="closeapp" finished-at="2018-06-24T17:06:18Z" duration-ms="3060" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapp -->
+      </class> <!-- Script.Addtocart -->
+      <class name="Script.Quantity">
+        <test-method is-config="true" signature="oprnapp()[pri:0, instance:Script.Quantity@175b9425]" started-at="2018-06-24T16:46:35Z" name="oprnapp" finished-at="2018-06-24T16:47:01Z" duration-ms="25819" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- oprnapp -->
+        <test-method signature="testcase10()[pri:0, instance:Script.Quantity@175b9425]" started-at="2018-06-24T16:47:01Z" name="testcase10" finished-at="2018-06-24T16:48:37Z" duration-ms="95795" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase10 -->
+        <test-method is-config="true" signature="closeapp()[pri:0, instance:Script.Quantity@175b9425]" started-at="2018-06-24T16:48:37Z" name="closeapp" finished-at="2018-06-24T16:48:41Z" duration-ms="4104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapp -->
+      </class> <!-- Script.Quantity -->
+      <class name="Script.Sharewithinvalidemail">
+        <test-method is-config="true" signature="oprnapp()[pri:0, instance:Script.Sharewithinvalidemail@68567e20]" started-at="2018-06-24T17:07:21Z" name="oprnapp" finished-at="2018-06-24T17:07:55Z" duration-ms="34248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- oprnapp -->
+        <test-method signature="testcase18()[pri:7, instance:Script.Sharewithinvalidemail@68567e20]" started-at="2018-06-24T17:07:55Z" name="testcase18" finished-at="2018-06-24T17:09:03Z" duration-ms="67646" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase18 -->
+        <test-method is-config="true" signature="closeapp()[pri:0, instance:Script.Sharewithinvalidemail@68567e20]" started-at="2018-06-24T17:09:03Z" name="closeapp" finished-at="2018-06-24T17:09:07Z" duration-ms="3714" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapp -->
+      </class> <!-- Script.Sharewithinvalidemail -->
+      <class name="Script.Deletefromsavedforlater">
+        <test-method is-config="true" signature="oprnapp()[pri:0, instance:Script.Deletefromsavedforlater@2f465398]" started-at="2018-06-24T16:37:00Z" name="oprnapp" finished-at="2018-06-24T16:37:27Z" duration-ms="26508" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- oprnapp -->
+        <test-method signature="testcase4()[pri:0, instance:Script.Deletefromsavedforlater@2f465398]" started-at="2018-06-24T16:37:27Z" name="testcase4" finished-at="2018-06-24T16:39:36Z" duration-ms="128979" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase4 -->
+        <test-method is-config="true" signature="closeapp()[pri:0, instance:Script.Deletefromsavedforlater@2f465398]" started-at="2018-06-24T16:39:36Z" name="closeapp" finished-at="2018-06-24T16:39:40Z" duration-ms="4495" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapp -->
+      </class> <!-- Script.Deletefromsavedforlater -->
+      <class name="Script.Negativeaddress">
+        <test-method is-config="true" signature="oprnapp()[pri:0, instance:Script.Negativeaddress@17a7f733]" started-at="2018-06-24T17:06:18Z" name="oprnapp" finished-at="2018-06-24T17:06:44Z" duration-ms="25788" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- oprnapp -->
+        <test-method signature="testcase9()[pri:0, instance:Script.Negativeaddress@17a7f733]" started-at="2018-06-24T17:06:44Z" name="testcase9" finished-at="2018-06-24T17:07:19Z" duration-ms="34901" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase9 -->
+        <test-method is-config="true" signature="closeapp()[pri:0, instance:Script.Negativeaddress@17a7f733]" started-at="2018-06-24T17:07:19Z" name="closeapp" finished-at="2018-06-24T17:07:21Z" duration-ms="2257" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapp -->
+      </class> <!-- Script.Negativeaddress -->
+      <class name="Script.Filter">
+        <test-method is-config="true" signature="oprnapp()[pri:0, instance:Script.Filter@313b2ea6]" started-at="2018-06-24T16:33:43Z" name="oprnapp" finished-at="2018-06-24T16:34:09Z" duration-ms="25892" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- oprnapp -->
+        <test-method signature="testcase5()[pri:0, instance:Script.Filter@313b2ea6]" started-at="2018-06-24T16:34:09Z" name="testcase5" finished-at="2018-06-24T16:34:42Z" duration-ms="33095" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase5 -->
+        <test-method is-config="true" signature="closeapp()[pri:0, instance:Script.Filter@313b2ea6]" started-at="2018-06-24T16:34:42Z" name="closeapp" finished-at="2018-06-24T16:34:45Z" duration-ms="2249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapp -->
+      </class> <!-- Script.Filter -->
+      <class name="Script.Addtowishlist">
+        <test-method is-config="true" signature="oprnapp()[pri:0, instance:Script.Addtowishlist@6a2b953e]" started-at="2018-06-24T16:29:49Z" name="oprnapp" finished-at="2018-06-24T16:30:22Z" duration-ms="33407" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- oprnapp -->
+        <test-method signature="testcase3()[pri:0, instance:Script.Addtowishlist@6a2b953e]" started-at="2018-06-24T16:30:22Z" name="testcase3" finished-at="2018-06-24T16:31:35Z" duration-ms="73085" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase3 -->
+        <test-method is-config="true" signature="closeapp()[pri:0, instance:Script.Addtowishlist@6a2b953e]" started-at="2018-06-24T16:31:35Z" name="closeapp" finished-at="2018-06-24T16:31:39Z" duration-ms="3622" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapp -->
+      </class> <!-- Script.Addtowishlist -->
+      <class name="Script.shareItemwithvalidemailid">
+        <test-method is-config="true" signature="oprnapp()[pri:0, instance:Script.shareItemwithvalidemailid@623a8092]" started-at="2018-06-24T16:44:26Z" name="oprnapp" finished-at="2018-06-24T16:44:46Z" duration-ms="20040" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- oprnapp -->
+        <test-method signature="testcase17()[pri:0, instance:Script.shareItemwithvalidemailid@623a8092]" started-at="2018-06-24T16:44:46Z" name="testcase17" finished-at="2018-06-24T16:45:43Z" duration-ms="57506" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase17 -->
+        <test-method is-config="true" signature="closeapp()[pri:0, instance:Script.shareItemwithvalidemailid@623a8092]" started-at="2018-06-24T16:45:43Z" name="closeapp" finished-at="2018-06-24T16:45:46Z" duration-ms="2744" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapp -->
+      </class> <!-- Script.shareItemwithvalidemailid -->
+      <class name="Script.Searchforblankitem">
+        <test-method is-config="true" signature="oprnapp()[pri:0, instance:Script.Searchforblankitem@548e6d58]" started-at="2018-06-24T16:41:12Z" name="oprnapp" finished-at="2018-06-24T16:41:40Z" duration-ms="28204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- oprnapp -->
+        <test-method signature="testcase14()[pri:0, instance:Script.Searchforblankitem@548e6d58]" started-at="2018-06-24T16:41:40Z" name="testcase14" finished-at="2018-06-24T16:42:11Z" duration-ms="31139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase14 -->
+        <test-method is-config="true" signature="closeapp()[pri:0, instance:Script.Searchforblankitem@548e6d58]" started-at="2018-06-24T16:42:11Z" name="closeapp" finished-at="2018-06-24T16:42:14Z" duration-ms="2632" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapp -->
+      </class> <!-- Script.Searchforblankitem -->
+      <class name="Script.SearchforItem">
+        <test-method is-config="true" signature="oprnapp()[pri:0, instance:Script.SearchforItem@610f7aa]" started-at="2018-06-24T16:50:50Z" name="oprnapp" finished-at="2018-06-24T16:51:40Z" duration-ms="50747" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- oprnapp -->
+        <test-method signature="testcase15()[pri:0, instance:Script.SearchforItem@610f7aa]" started-at="2018-06-24T16:51:40Z" name="testcase15" finished-at="2018-06-24T16:52:36Z" duration-ms="55839" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase15 -->
+        <test-method is-config="true" signature="closeapp()[pri:0, instance:Script.SearchforItem@610f7aa]" started-at="2018-06-24T16:52:36Z" name="closeapp" finished-at="2018-06-24T16:52:38Z" duration-ms="2329" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapp -->
+      </class> <!-- Script.SearchforItem -->
+      <class name="Script.Statement">
+        <test-method is-config="true" signature="oprnapp()[pri:0, instance:Script.Statement@394a2528]" started-at="2018-06-24T16:39:40Z" name="oprnapp" finished-at="2018-06-24T16:40:22Z" duration-ms="41823" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- oprnapp -->
+        <test-method signature="testcase19()[pri:0, instance:Script.Statement@394a2528]" started-at="2018-06-24T16:40:22Z" name="testcase19" finished-at="2018-06-24T16:41:09Z" duration-ms="46955" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase19 -->
+        <test-method is-config="true" signature="closeapp()[pri:0, instance:Script.Statement@394a2528]" started-at="2018-06-24T16:41:09Z" name="closeapp" finished-at="2018-06-24T16:41:12Z" duration-ms="2895" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapp -->
+      </class> <!-- Script.Statement -->
+      <class name="Script.Rating">
+        <test-method is-config="true" signature="oprnapp()[pri:0, instance:Script.Rating@6a03bcb1]" started-at="2018-06-24T16:52:38Z" name="oprnapp" finished-at="2018-06-24T16:54:05Z" duration-ms="86168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- oprnapp -->
+        <test-method signature="testcase11()[pri:0, instance:Script.Rating@6a03bcb1]" started-at="2018-06-24T16:54:05Z" name="testcase11" finished-at="2018-06-24T16:56:43Z" duration-ms="158124" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase11 -->
+        <test-method is-config="true" signature="closeapp()[pri:0, instance:Script.Rating@6a03bcb1]" started-at="2018-06-24T16:56:43Z" name="closeapp" finished-at="2018-06-24T16:56:45Z" duration-ms="2315" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapp -->
+      </class> <!-- Script.Rating -->
+      <class name="Script.Address">
+        <test-method is-config="true" signature="oprnapp()[pri:0, instance:Script.Address@3098cf3b]" started-at="2018-06-24T16:48:41Z" name="oprnapp" finished-at="2018-06-24T16:49:46Z" duration-ms="64418" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- oprnapp -->
+        <test-method signature="testcase1()[pri:0, instance:Script.Address@3098cf3b]" started-at="2018-06-24T16:49:46Z" name="testcase1" finished-at="2018-06-24T16:50:47Z" duration-ms="61493" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method is-config="true" signature="closeapp()[pri:0, instance:Script.Address@3098cf3b]" started-at="2018-06-24T16:50:47Z" name="closeapp" finished-at="2018-06-24T16:50:50Z" duration-ms="2421" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapp -->
+      </class> <!-- Script.Address -->
+      <class name="Script.Movetosaveforlater">
+        <test-method is-config="true" signature="oprnapp()[pri:0, instance:Script.Movetosaveforlater@76ed1b7c]" started-at="2018-06-24T16:31:39Z" name="oprnapp" finished-at="2018-06-24T16:32:04Z" duration-ms="25094" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- oprnapp -->
+        <test-method signature="testcase8()[pri:0, instance:Script.Movetosaveforlater@76ed1b7c]" started-at="2018-06-24T16:32:04Z" name="testcase8" finished-at="2018-06-24T16:33:39Z" duration-ms="95349" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase8 -->
+        <test-method is-config="true" signature="closeapp()[pri:0, instance:Script.Movetosaveforlater@76ed1b7c]" started-at="2018-06-24T16:33:39Z" name="closeapp" finished-at="2018-06-24T16:33:43Z" duration-ms="3987" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapp -->
+      </class> <!-- Script.Movetosaveforlater -->
+      <class name="Script.Customerpage">
+        <test-method is-config="true" signature="oprnapp()[pri:0, instance:Script.Customerpage@5609159b]" started-at="2018-06-24T17:02:50Z" name="oprnapp" finished-at="2018-06-24T17:03:19Z" duration-ms="29218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- oprnapp -->
+        <test-method signature="testcase21()[pri:0, instance:Script.Customerpage@5609159b]" started-at="2018-06-24T17:03:19Z" name="testcase21" finished-at="2018-06-24T17:03:53Z" duration-ms="34135" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase21 -->
+        <test-method is-config="true" signature="closeapp()[pri:0, instance:Script.Customerpage@5609159b]" started-at="2018-06-24T17:03:53Z" name="closeapp" finished-at="2018-06-24T17:03:56Z" duration-ms="2367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapp -->
+      </class> <!-- Script.Customerpage -->
+      <class name="Script.RemoveFromcart">
+        <test-method is-config="true" signature="oprnapp()[pri:0, instance:Script.RemoveFromcart@57250572]" started-at="2018-06-24T17:00:18Z" name="oprnapp" finished-at="2018-06-24T17:00:53Z" duration-ms="34506" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- oprnapp -->
+        <test-method signature="testcase12()[pri:0, instance:Script.RemoveFromcart@57250572]" started-at="2018-06-24T17:00:53Z" name="testcase12" finished-at="2018-06-24T17:02:46Z" duration-ms="112686" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase12 -->
+        <test-method is-config="true" signature="closeapp()[pri:0, instance:Script.RemoveFromcart@57250572]" started-at="2018-06-24T17:02:46Z" name="closeapp" finished-at="2018-06-24T17:02:50Z" duration-ms="4488" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapp -->
+      </class> <!-- Script.RemoveFromcart -->
+      <class name="Script.LoginlogoutScript">
+        <test-method is-config="true" signature="oprnapp()[pri:0, instance:Script.LoginlogoutScript@a1cdc6d]" started-at="2018-06-24T16:45:46Z" name="oprnapp" finished-at="2018-06-24T16:46:13Z" duration-ms="26569" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- oprnapp -->
+        <test-method signature="testcase6()[pri:0, instance:Script.LoginlogoutScript@a1cdc6d]" started-at="2018-06-24T16:46:13Z" name="testcase6" finished-at="2018-06-24T16:46:33Z" duration-ms="20078" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase6 -->
+        <test-method is-config="true" signature="closeapp()[pri:0, instance:Script.LoginlogoutScript@a1cdc6d]" started-at="2018-06-24T16:46:33Z" name="closeapp" finished-at="2018-06-24T16:46:35Z" duration-ms="2628" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapp -->
+      </class> <!-- Script.LoginlogoutScript -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
